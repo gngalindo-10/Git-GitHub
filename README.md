@@ -16,12 +16,12 @@ Este repositorio documenta mi proceso de aprendizaje en **control de versiones d
 
 ## 🎯 Objetivos del Curso
 
-- ✅ Dominar los fundamentos de Git (inicialización, staging, commits, branches)
-- ✅ Gestionar repositorios locales y remotos en GitHub
-- ✅ Aplicar flujos de trabajo colaborativo (fork, clone, pull requests)
-- ✅ Resolver conflictos de fusión (merge conflicts)
-- ✅ Implementar buenas prácticas en mensajes de commit
-- ✅ Utilizar branching strategy para organización del código
+- Dominar los fundamentos de Git (inicialización, staging, commits, branches)
+- Gestionar repositorios locales y remotos en GitHub
+- Aplicar flujos de trabajo colaborativo (fork, clone, pull requests)
+- Resolver conflictos de fusión (merge conflicts)
+- Implementar buenas prácticas en mensajes de commit
+- Utilizar branching strategy para organización del código
 
 ---
 
